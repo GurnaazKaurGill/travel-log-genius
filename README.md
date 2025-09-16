@@ -85,10 +85,6 @@ npm run dev
 
 Contributions are welcome! Please open issues or pull requests to improve features, fix bugs, or enhance documentation.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Contact
 
 For questions or feedback, contact the development team at gurnaazgill01@gmail.com
